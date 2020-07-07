@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Daniel Vásquez - Broken Rock Paper Scissors</title>
+<title>Daniel Vásquez -  Rock Paper Scissors</title>
 <?php require "bootstrap.php"; ?>
 </head>
 <body>
